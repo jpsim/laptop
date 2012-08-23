@@ -66,5 +66,7 @@ This script was heavily inspired (and uses) the following amazing projects:
 	* Set Chrome as default browser
 	* Set Sublime Text as git commit editor
 	* Set Mergetool and github username, etc.
+	* More
 * Organize Dock apps
 * Software Update
+* Automatically register apps
