@@ -16,12 +16,12 @@ Among other things, it installs the following:
 * System defaults
 * zsh
 * Homebrew
- * Git
- * RVM
- * Ruby
- * Rails
- * Mergetool
- * Heroku Toolbelt
+* Git
+* RVM
+* Ruby
+* Rails
+* Mergetool
+* Heroku Toolbelt
 * Chrome
 * Sublime Text 2
 * Unarchiver
@@ -54,3 +54,17 @@ This script was heavily inspired (and uses) the following amazing projects:
 * https://github.com/ts310/setup-new-mac
 * https://github.com/ptb/Mac-OS-X-Lion-Setup
 * https://github.com/geetarista/mac-setup
+
+## TODO
+
+* Install more apps
+	* Eclipse & ADT
+	* Adobe CS6
+	* Transmit
+	* VMWare Fusion
+* Configure all apps
+	* Set Chrome as default browser
+	* Set Sublime Text as git commit editor
+	* Set Mergetool and github username, etc.
+* Organize Dock apps
+* Software Update
